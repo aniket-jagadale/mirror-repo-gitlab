@@ -1,7 +1,8 @@
 # 🚀 Mirroring a Repository from GitLab to GitHub
 
 This repository, **`mirror-repo-gitlab`**, demonstrates a one-way **push mirror** from **GitLab** (the primary source) to **GitHub** (the destination mirror). This ensures that all commits and merges performed on GitLab are automatically synchronized to GitHub.
-
+The work flow of this project.
+![](/img/mirror-repo-gitlab%20_structure.png)
 ---
 
 ## 🛠️ Setup Steps and Commands
